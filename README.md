@@ -14,6 +14,8 @@ Getting Started:
 
 To get started with this project, clone the repository, install the necessary dependencies, and follow the provided instructions for running both the server and client components.
 
+![Demo](web.png)
+
 Contributing:
 
 We welcome contributions from the community to enhance and improve this project. If you're interested in contributing, please fork the repository, create a new branch, make your changes, and submit a pull request.
